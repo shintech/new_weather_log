@@ -12,7 +12,6 @@ function getAllEntries (req, res, next) {
 }
 
 function createEntry (req, res, next) {
-  console.log(req.body)
   db.none('insert into entries( temp_low, temp_hi )' + 'values( ${temp_low}, ${temp_hi} )', req.body) // eslint-disable-line
   .then(function () {
     res.status(200)
