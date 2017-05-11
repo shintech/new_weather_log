@@ -2,24 +2,26 @@ import Marionette from 'marionette'
 import Entries from './collections/Entries'
 import EntriesView from './views/EntriesView'
 import FormView from './views/FormView'
+import Pagurbate from 'pagurbate'
 
 const Controller = Marionette.Object.extend({
   initialize: function (options) {
     this.app = options.app
-
-    this.entries = new Entries()
   },
 
-  index: function () {
+  page: function (id) {
     const app = this.app
+
+    this.entries = new Entries({ id: id })
 
     const entriesView = new EntriesView({
       collection: this.entries
     })
 
     this.entries.fetch({
-      success: function () {
+      success: function (data) {
         app.view.showChildView('main', entriesView)
+        app.view.showChildView('footer', new Pagurbate({ pageData: data.pageData}))
       },
 
       error: function (err) {

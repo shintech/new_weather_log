@@ -10,7 +10,10 @@ const RootView = Backbone.Marionette.View.extend({
     },
     main: {
       el: '#main-view'
-    }
+    },
+    footer: {
+      el: '.panel-footer'
+    }    
   },
   initialize: function () {
     this.render()

@@ -12,6 +12,214 @@ CREATE TABLE entries (
 
 INSERT INTO entries ( temp_low, temp_hi )
 VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
+INSERT INTO entries ( temp_low, temp_hi )
+VALUES ( 10, 99 );
 
 ---------------------------------------------------------------------------
 

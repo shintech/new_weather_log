@@ -1,10 +1,11 @@
 import {init as db} from '../'
+import pagurbation from 'pagurbation'
 
 function getAllEntries (req, res, next) {
   db.any('select * from entries')
   .then(function (data) {
     res.status(200)
-    .json(data)
+    .json(pagurbation(req, data, 50))
   })
   .catch(function (err) {
     return next(err)
